@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.yaotiaomeizhi.cn/sitemap.xml
